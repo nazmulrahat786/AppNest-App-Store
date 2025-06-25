@@ -1,26 +1,51 @@
-# AppNest
+# 🌟 AppNest
 
-## 📌 Purpose
-AppNest is a responsive web application designed to demonstrate modern frontend development practices. It serves as a portfolio-style app with a clean user interface and smooth user experience.
+## 📌 Purpose  
+**AppNest** is a responsive web application created to demonstrate modern frontend development practices. It serves as a portfolio-style app featuring a clean user interface and a smooth user experience.
 
-## 🔗 Live URL
-Live Link: https://appnest13.web.app
+---
+
+## 🌐 Live Link  
+🔗 [AppNest Live](https://appnest13.web.app)
+
+---
 
 ## ✨ Key Features
-- Fully responsive and mobile-friendly design  
-- Smooth animations and transitions  
-- Clean, modular UI components  
-- Navigation using React Router  
-- Toast notifications for better user feedback  
-- Styled components using DaisyUI  
-- Hosted with Firebase for fast and secure deployment  
+- ✅ Fully responsive and mobile-friendly design  
+- ✨ Smooth animations and transitions  
+- 🧩 Clean, modular UI components  
+- 🧭 Navigation handled using React Router  
+- 🔔 Toast notifications for user feedback  
+- 🎨 Beautiful pre-styled components using DaisyUI  
+- 🚀 Deployed and hosted with Firebase  
 
-## 📦 NPM Packages Used
-- **React** – For building the user interface  
-- **React Router DOM** – For client-side routing  
-- **Firebase** – For deployment and hosting  
-- **Tailwind CSS** – For styling with utility-first classes  
-- **DaisyUI** – For prebuilt styled components  
-- **React Icons** – For scalable vector icons  
-- **React Toastify** – For customizable toast notifications  
-"# AppNest-App-Store" 
+---
+
+## 🛠️ Main Technologies Used
+| Technology        | Purpose                        |
+|------------------|--------------------------------|
+| React            | Building the user interface    |
+| React Router DOM | Client-side routing            |
+| Tailwind CSS     | Utility-first styling          |
+| DaisyUI          | Prebuilt UI components         |
+| Firebase         | Hosting and deployment         |
+| React Toastify   | Toast notifications            |
+| React Icons      | Scalable icons                 |
+
+---
+
+## 📦 Project Dependencies
+```json
+"dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@tailwindcss/vite": "^4.1.6",
+    "daisyui": "^5.0.35",
+    "firebase": "^11.7.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-multi-carousel": "^2.8.6",
+    "react-router": "^7.6.0",
+    "react-toastify": "^11.0.5",
+    "tailwindcss": "^4.1.6"
+  }
