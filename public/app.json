@@ -1,0 +1,218 @@
+[
+    {
+      "id": "app001",
+      "name": "Programming Hero",
+      "developer": "Programming Hero Ltd.",
+      "thumbnail": "https://play-lh.googleusercontent.com/edmBVFMS9fhuZycs2I6jCO7vGxhH434upOADR2e3x5Wi_s6Et4vcFY0gYs0q_B0qFS8",
+      "banner": "https://i.ytimg.com/vi/6okddtpBcTE/maxresdefault.jpg",
+      "downloads": 350,
+      "category": "Education",
+      "rating": 4.8,
+      "description": "Programming Hero is a fun and interactive way to learn programming. Whether you're a beginner or looking to brush up your skills, this app makes learning to code exciting and practical.",
+      "features": [
+        "Interactive coding lessons",
+        "Real-world projects",
+        "Gamified learning experience"
+      ],
+      "reviews": [
+        {
+          "user": "coder_nadia",
+          "rating": 5,
+          "comment": "Best app for beginners! The lessons are super easy to follow and engaging."
+        }
+      ]
+    },
+    {
+      "id": "app002",
+      "name": "Focus Keeper",
+      "developer": "Pomodoro Apps",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8gYpQzTS3dV2yay3IQe9mUczjUnbJMPOHw&s",
+      "banner": "https://cdn.prod.website-files.com/634681057b887c6f4830fae2/6712a20938ffa37f04d4020d_6367dd60c4f0de81077d62d9_6259f83308f5310000298ee2_pomodoro.png",
+      "downloads": 120,
+      "category": "Productivity",
+      "rating": 4.5,
+      "description": "Focus Keeper helps you keep your productivity high by applying the Pomodoro technique. Stay focused and get more done with structured work sessions.",
+      "features": [
+        "Customizable Pomodoro timer",
+        "Session reports and stats",
+        "Minimalist user interface"
+      ],
+      "reviews": [
+        {
+          "user": "jake_workz",
+          "rating": 4,
+          "comment": "Simple and effective. Great for staying on task!"
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "Duolingo",
+      "developer": "Duolingo Inc.",
+      "thumbnail": "https://play-lh.googleusercontent.com/ZYKTGrS5CresqrZJb-ewGyIHY2bA6dOKrTJqMAb6n4HXVQY4S9tOfhg0aiY8JH5zxg",
+      "banner": "https://advertisingweek.com/wp-content/uploads/2022/03/169duolingo_hero-1170x600.jpg",
+      "downloads": 100,
+      "category": "Education",
+      "rating": 4.6,
+      "description": "Learn languages for free with Duolingo. Practice speaking, reading, and listening with fun bite-sized lessons.",
+      "features": [
+        "Multiple language support",
+        "Streak tracking",
+        "Gamified lessons"
+      ],
+      "reviews": [
+        {
+          "user": "lingo_lover",
+          "rating": 5,
+          "comment": "Learning Spanish has never been this fun!"
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "Asphalt 9",
+      "developer": "Gameloft",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80FWBg779jyAi-BhIl_wO0GogGP2bWhnbkA&s",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0f2yQAe7-uE_nCHGwHA_TR-gL2S_uLF9z7A&s",
+      "downloads": 500,
+      "category": "Gaming",
+      "rating": 4.6,
+      "description": "Asphalt 9 is a thrilling racing game featuring real cars, stunning graphics, and intense multiplayer races.",
+      "features": [
+        "Real-world car brands",
+        "Online multiplayer",
+        "Stunning visuals"
+      ],
+      "reviews": [
+        {
+          "user": "speedster22",
+          "rating": 5,
+          "comment": "Best racing game on mobile. Addictive and beautiful!"
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "Trello",
+      "developer": "Atlassian",
+      "thumbnail": "https://images.seeklogo.com/logo-png/27/1/trello-logo-png_seeklogo-274031.png",
+      "banner": "https://www.atlassian.com/blog/wp-content/uploads/2024/01/how-a-power-user-uses-trello-card-and-board-templates.png",
+      "downloads": 1000,
+      "category": "Productivity",
+      "rating": 4.6,
+      "description": "Trello helps teams move work forward. Collaborate, manage projects, and reach new productivity peaks.",
+      "features": [
+        "Drag-and-drop task boards",
+        "Team collaboration tools",
+        "Project tracking and deadlines"
+      ],
+      "reviews": [
+        {
+          "user": "pm_jen",
+          "rating": 4.5,
+          "comment": "Perfect for managing our team’s workflow!"
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "Khan Academy",
+      "developer": "Khan Academy",
+      "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_l3GggKOWViCBpDs9APIsK6MHB2Mu-ECo5dUEU-Vay2gg=s900-c-k-c0x00ffffff-no-rj",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURHAKom3m8N3tUU-oZVVrJCCZN7DCDulTlQ&s",
+      "downloads": 1000,
+      "category": "Education",
+      "rating": 4,
+      "description": "Khan Academy offers practice exercises and instructional videos for learners of all ages—for free.",
+      "features": [
+        "Math and science lessons",
+        "Progress tracking",
+        "Free for all"
+      ],
+      "reviews": [
+        {
+          "user": "mathwhiz99",
+          "rating": 5,
+          "comment": "Amazing app! Helped me pass my exams."
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "Among Us",
+      "developer": "Innersloth LLC",
+      "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/d10217b5-1ae1-44dd-a82c-6e2d60d086d6/3969265935/among-us-Download-Among-Us.jpg",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwoF5ZM-EogZg29a63YeQqL7PgU8fWSD5VHg&s",
+      "downloads": 1002,
+      "category": "Gaming",
+      "rating": 4.2,
+      "description": "Among Us is a multiplayer party game of teamwork and betrayal. Play with friends as crewmates or impostors!",
+      "features": [
+        "Online & local multiplayer",
+        "Character customization",
+        "Cross-platform play"
+      ],
+      "reviews": [
+        {
+          "user": "sus_master",
+          "rating": 4,
+          "comment": "Great fun with friends, especially voice chatting."
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "Notion",
+      "developer": "Notion Labs, Inc.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk46VAuqmTJfENFjx6_0wq-pCisy-CO-aooA&s",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvZFcNjskhEQXXkEyyqtwb-dOxy87I_oRqA&s",
+      "downloads": 800,
+      "category": "Productivity",
+      "rating": 4.2,
+      "description": "Notion is an all-in-one workspace for notes, tasks, databases, and collaboration. Ideal for both personal and professional use.",
+      "features": [
+        "Customizable pages",
+        "Database & tables",
+        "Collaboration tools"
+      ],
+      "reviews": [
+        {
+          "user": "notion_nerd",
+          "rating": 5,
+          "comment": "Use it for everything—life saver for organizing tasks!"
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "Toca Life World",
+      "developer": "Toca Boca",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcwtSFBodQe4wVG6RTjf-czUi1K-xWoIOFsg&s",
+      "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3QTHWWoB12nucVwIqAsnFtSH8um4-F1b-w&s",
+      "downloads": 106,
+      "category": "Gaming",
+      "rating": 4.2,
+      "description": "Toca Life World is a fun and educational sandbox game where kids can explore, create stories, and interact with characters in a safe environment.",
+      "features": [
+        "Open-ended gameplay",
+        "No third-party ads",
+        "Safe for kids",
+        "Creative storytelling"
+      ],
+      "reviews": [
+        {
+          "user": "momOfThree",
+          "rating": 5,
+          "comment": "My kids love this game! It’s safe, creative, and keeps them entertained for hours."
+        },
+        {
+          "user": "tinygamer7",
+          "rating": 4,
+          "comment": "Really fun but some locations cost money."
+        }
+      ]
+    }
+    
+    
+  ]
+  
